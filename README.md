@@ -52,7 +52,7 @@ Fortunately, there are serveral alternatives if you can't access `Terminal` righ
 
 ### If you have Terminal (or equivalent) sorted
 
-We will be using `Terminal` as an example. You shouldn't have any problem following these steps with other alternatives.
+We will be using `Terminal` as an example. You shouldn't have any problem following these steps with its alternatives.
 
 1. Open `Terminal`.
 
@@ -60,7 +60,7 @@ We will be using `Terminal` as an example. You shouldn't have any problem follow
 
 3. Enter your password when prompted. You **won't be able to see it** as you type due to security reasons. Enter when you're done.
 
-4. That's it - you're all set! Try opening an app that was banned before to see if it worked.
+4. That's it - you're all set! Try opening an app that was banned before to see if it works.
 
 ## Possible Consequences
 
